@@ -1,0 +1,13 @@
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\IM.Serilog.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\IM.Serilog.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\IM.Serilog.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.Serilog\IM.Serilog\obj\Debug\netcoreapp2.0\IM.Serilog.pdb

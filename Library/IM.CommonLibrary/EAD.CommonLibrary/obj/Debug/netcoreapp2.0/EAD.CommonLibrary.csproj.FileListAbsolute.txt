@@ -1,0 +1,8 @@
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\bin\Debug\netcoreapp2.0\EAD.CommonLibrary.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\bin\Debug\netcoreapp2.0\EAD.CommonLibrary.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\bin\Debug\netcoreapp2.0\EAD.CommonLibrary.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\obj\Debug\netcoreapp2.0\EAD.CommonLibrary.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\obj\Debug\netcoreapp2.0\EAD.CommonLibrary.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\obj\Debug\netcoreapp2.0\EAD.CommonLibrary.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\obj\Debug\netcoreapp2.0\EAD.CommonLibrary.dll
+E:\Nived\My_Projects\NewInventoryManagement\Library\IM.CommonLibrary\EAD.CommonLibrary\obj\Debug\netcoreapp2.0\EAD.CommonLibrary.pdb

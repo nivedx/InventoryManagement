@@ -1,0 +1,8 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\bin\Debug\netcoreapp2.0\IM.Core.Extensions.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\bin\Debug\netcoreapp2.0\IM.Core.Extensions.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\bin\Debug\netcoreapp2.0\IM.Core.Extensions.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\obj\Debug\netcoreapp2.0\IM.Core.Extensions.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\obj\Debug\netcoreapp2.0\IM.Core.Extensions.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\obj\Debug\netcoreapp2.0\IM.Core.Extensions.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\obj\Debug\netcoreapp2.0\IM.Core.Extensions.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Extensions\IM.Core.Extensions\obj\Debug\netcoreapp2.0\IM.Core.Extensions.pdb

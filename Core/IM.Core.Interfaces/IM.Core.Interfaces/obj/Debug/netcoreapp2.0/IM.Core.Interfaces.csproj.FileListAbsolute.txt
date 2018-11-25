@@ -1,0 +1,9 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Interfaces\IM.Core.Interfaces\obj\Debug\netcoreapp2.0\IM.Core.Interfaces.pdb

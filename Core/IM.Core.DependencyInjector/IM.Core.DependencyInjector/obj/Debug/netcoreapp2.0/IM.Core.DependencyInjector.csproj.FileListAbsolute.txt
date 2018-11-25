@@ -4,3 +4,12 @@ E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.C
 E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.csproj.CoreCompileInputs.cache
 E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.AssemblyInfoInputs.cache
 E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Core.DependencyInjector.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Serilog.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Serilog.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Core.Interfaces.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.pdb

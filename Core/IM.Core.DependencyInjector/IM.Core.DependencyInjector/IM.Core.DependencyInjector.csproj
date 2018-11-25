@@ -8,4 +8,9 @@
     <PackageReference Include="SimpleInjector" Version="4.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Library\IM.Serilog\IM.Serilog\IM.Serilog.csproj" />
+    <ProjectReference Include="..\..\IM.Core.Interfaces\IM.Core.Interfaces\IM.Core.Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

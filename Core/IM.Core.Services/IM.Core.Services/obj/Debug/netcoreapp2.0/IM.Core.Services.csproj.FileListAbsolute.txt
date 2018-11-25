@@ -1,0 +1,8 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\bin\Debug\netcoreapp2.0\IM.Core.Services.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\bin\Debug\netcoreapp2.0\IM.Core.Services.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\bin\Debug\netcoreapp2.0\IM.Core.Services.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\obj\Debug\netcoreapp2.0\IM.Core.Services.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\obj\Debug\netcoreapp2.0\IM.Core.Services.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\obj\Debug\netcoreapp2.0\IM.Core.Services.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\obj\Debug\netcoreapp2.0\IM.Core.Services.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Services\IM.Core.Services\obj\Debug\netcoreapp2.0\IM.Core.Services.pdb
