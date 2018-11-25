@@ -19,3 +19,4 @@ E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\n
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.AssemblyInfo.cs
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.dll
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.csprojResolveAssemblyReference.cache

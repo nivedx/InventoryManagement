@@ -1,0 +1,6 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Core.DependencyInjector.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\bin\Debug\netcoreapp2.0\IM.Core.DependencyInjector.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.DependencyInjector\IM.Core.DependencyInjector\obj\Debug\netcoreapp2.0\IM.Core.DependencyInjector.AssemblyInfo.cs

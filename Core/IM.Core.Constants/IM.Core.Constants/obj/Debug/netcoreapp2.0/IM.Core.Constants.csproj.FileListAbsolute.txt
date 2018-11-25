@@ -1,0 +1,9 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\bin\Debug\netcoreapp2.0\IM.Core.Constants.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\bin\Debug\netcoreapp2.0\IM.Core.Constants.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\bin\Debug\netcoreapp2.0\IM.Core.Constants.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.Constants\IM.Core.Constants\obj\Debug\netcoreapp2.0\IM.Core.Constants.pdb

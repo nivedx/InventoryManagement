@@ -1,0 +1,9 @@
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\bin\Debug\netcoreapp2.0\IM.Core.AutoMapper.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\bin\Debug\netcoreapp2.0\IM.Core.AutoMapper.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\bin\Debug\netcoreapp2.0\IM.Core.AutoMapper.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.dll
+E:\Nived\My_Projects\NewInventoryManagement\Core\IM.Core.AutoMapper\IM.Core.AutoMapper\obj\Debug\netcoreapp2.0\IM.Core.AutoMapper.pdb
