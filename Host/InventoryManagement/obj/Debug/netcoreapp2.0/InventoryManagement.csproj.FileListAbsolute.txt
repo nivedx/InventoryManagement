@@ -14,7 +14,6 @@ E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\bin\Debug\n
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\bin\Debug\netcoreapp2.0\InventoryManagement.runtimeconfig.dev.json
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\bin\Debug\netcoreapp2.0\InventoryManagement.dll
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\bin\Debug\netcoreapp2.0\InventoryManagement.pdb
-E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.csprojResolveAssemblyReference.cache
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.csproj.CoreCompileInputs.cache
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.AssemblyInfoInputs.cache
 E:\Nived\My_Projects\NewInventoryManagement\Host\InventoryManagement\obj\Debug\netcoreapp2.0\InventoryManagement.AssemblyInfo.cs
