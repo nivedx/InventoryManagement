@@ -3988,7 +3988,7 @@
     "Microsoft.ApplicationInsights/2.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-4dX/zu3Psz9oM3ErU64xfOHuSxOwMxN6q5RabSkeYbX42Yn6dR/kDToqjs+txCRjrfHUxyYjfeJHu+MbCfvAsg==",
+      "sha512": "sha512-ybgAlUCzfAgoBmfeURYuePb4XicJlgJ6mK4yhRoy/MyNXJ2d6Fxs13HPdKMGtdZZ/3zp5EDRXIYtEQRRDJq0Ug==",
       "path": "microsoft.applicationinsights/2.4.0",
       "hashPath": "microsoft.applicationinsights.2.4.0.nupkg.sha512"
     },
@@ -5115,7 +5115,7 @@
     "Newtonsoft.Json/10.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+      "sha512": "sha512-cLUdS1c28/xfZGQ8qWj83eYjsXxHs/SnuyxB4Qx6i+9ZCgyIGvkGgp9OeNP/lg26FUwXYidu6CqH0o9szESIwQ==",
       "path": "newtonsoft.json/10.0.1",
       "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
     },
@@ -5962,7 +5962,7 @@
     "System.Xml.XPath/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "sha512-RxV8tabEbq+Oi47qIlarAFLtaou3k/t1Y84RHo7+gsr6Z+hcOrJKIaqHgFijgbO3B/GYyyXIyn20w466WoXxtg==",
       "path": "system.xml.xpath/4.3.0",
       "hashPath": "system.xml.xpath.4.3.0.nupkg.sha512"
     },

@@ -1,0 +1,9 @@
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\bin\Debug\netcoreapp2.0\IM.Persistance.DataAccess.deps.json
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\bin\Debug\netcoreapp2.0\IM.Persistance.DataAccess.dll
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.csprojResolveAssemblyReference.cache
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.csproj.CoreCompileInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.AssemblyInfoInputs.cache
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.AssemblyInfo.cs
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\bin\Debug\netcoreapp2.0\IM.Persistance.DataAccess.pdb
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.dll
+E:\Nived\My_Projects\NewInventoryManagement\Persistence\EAD.Persistance.DataAccess\IM.Persistance.DataAccess\obj\Debug\netcoreapp2.0\IM.Persistance.DataAccess.pdb
